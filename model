@@ -1,4 +1,0 @@
-Run movies.ipynb in notebook
-there will be two files with names as similarity.pkl,movie_list.pkl in home page of notebook
-download those files and keep them in model folder.
-place model folder at app.py directory.
