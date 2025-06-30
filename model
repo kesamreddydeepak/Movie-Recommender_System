@@ -1,0 +1,3 @@
+Run movies.ipynb in notebook
+there will be two files called simialrity.pkl,movie_list.pkl in home of jupyter notebook.
+Download those two files keep in model folder whie executing app.py
